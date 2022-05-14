@@ -359,7 +359,7 @@ p.white-text {
 
 .top-rush {
   background-color: rgba(83, 83, 83, 0.5);
-  background-image: url("/resources/images/rush1.jpg");
+  background-image: url("./resources/images/rush1.jpg");
 }
 
 .top-heading {
@@ -398,7 +398,7 @@ p.white-text {
 
 .top-about {
   background-color: rgba(132, 132, 132, 0.5);
-  background-image: url("/resources/images/about1.jpg");
+  background-image: url("./resources/images/about1.jpg");
 }
 
 .youtube-video {
@@ -477,11 +477,6 @@ p.white-text {
 .exec-title {
   font-size: 15px;
   color: #c99700;
-}
-
-.top-contact {
-  background-color: rgba(83, 83, 83, 0.8);
-  background-image: url("/resources/images/contact1.jpg");
 }
 
 form {
